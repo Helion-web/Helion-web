@@ -1,13 +1,11 @@
-- 👋 Hi, I’m @Helion-web
-- 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning NodeJs.
-- 📫 How to reach me:
-- "Email: demnerihelion@gmail.com"
-- "Linkedln: www.linkedin.com/in/helion-demneri-1922772a4"
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: My projects are usually fueled by 100 cups of coffee and 20 hours of sleep deprivation.
+# 👋 Hi, I’m @Helion-web
 
-<!---
-Helion-web/Helion-web is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a passionate **DevOps Engineer** who loves automating infrastructure, building CI/CD pipelines, and optimizing system performance. I work with a variety of tools and technologies to help teams deliver better software faster and more reliably.
+
+- 🌱 I’m currently learning more about **Kubernetes** and **Cloud Architecture** to further improve my DevOps skills.
+- ⚡ Fun fact: My projects are usually fueled by 50 cups of coffee and 20 hours of sleep deprivation.
+
+## 📫 How to reach me:
+- 📧 Email: [demnerihelion@gmail.com](mailto:demnerihelion@gmail.com)
+- 🌐 LinkedIn: [www.linkedin.com/in/helion-demneri-1922772a4](https://www.linkedin.com/in/helion-demneri-1922772a4)
+- 💼 GitHub: [https://github.com/Helion-web](https://github.com/Helion-web)
