@@ -7,5 +7,5 @@ I'm a passionate **DevOps Engineer** who loves automating infrastructure, buildi
 
 ## 📫 How to reach me:
 - 📧 Email: [demnerihelion@gmail.com](mailto:demnerihelion@gmail.com)
-- 🌐 LinkedIn: [www.linkedin.com/in/helion-demneri-1922772a4](https://www.linkedin.com/in/helion-demneri-1922772a4)
+- 🌐 LinkedIn: [Helion](www.linkedin.com/in/helion-d-1922772a4)
 - 💼 GitHub: [https://github.com/Helion-web](https://github.com/Helion-web)
